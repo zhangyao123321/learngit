@@ -1,0 +1,2 @@
+1.撤销工作区 git restore
+2. 1).git restore --staged * 2)git restore *
